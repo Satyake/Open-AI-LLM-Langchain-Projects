@@ -1,5 +1,9 @@
 # Open-AI-LLM-Langchain-Projects
-Open AI LLM GEN AI Projects
+Open AI LLM GEN AI Projects/NLP
+
+
+#1 Hugging Face transfromer Supervised Fine Tuning on NER use case.
+
 
 #2 PDF BOT
 
