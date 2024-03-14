@@ -14,3 +14,5 @@ The NoSQL Cassandra DB is hosted on google cloud. The text embeddings for the pd
 
 
 #4 Resume classification system Bert based
+
+#5 LangChain use cases 
