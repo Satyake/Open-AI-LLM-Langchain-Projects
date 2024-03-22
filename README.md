@@ -2,7 +2,7 @@
 Open AI LLM GEN AI Projects/NLP
 
 
-#1 Hugging Face transfromer Supervised Fine Tuning on NER use case.
+#1 Hugging Face transfromer Supervised Fine Tuning on NER/Summarization/Neural Machine Translator
 
 
 #2 PDF BOT
