@@ -18,3 +18,5 @@ The NoSQL Cassandra DB is hosted on google cloud. The text embeddings for the pd
 #5 LangChain use cases 
 
 #6 ChromaDB, PineCone, FAISS, RAG implementations notebooks for performing vector search using pdfs.
+
+#7 Website based chatbot using RAG
