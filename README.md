@@ -22,3 +22,15 @@ The NoSQL Cassandra DB is hosted on google cloud. The text embeddings for the pd
 #7 Website based chatbot using RAG
 
 #8 LORA Supervised Fine Tuning on LLAMA 2-7b hf-chat
+
+#9 Telegram chatbot using OpenAI #AIOGram implementation
+
+#10 LlamaIndex implementation of Mixtral
+
+#11 Fundamental RAG use cases.
+
+#12 Multimodal RAG system using LanceDB, 
+--Video--> Images
+--Video--> audio--> text    Loaded to lanceDB as embeddings/vectorestore
+Query ---> LLM (OPEN AI - GPT 4 Vision)--> response augmented <-----vector store cross reference from lancedb (similarity search)
+
